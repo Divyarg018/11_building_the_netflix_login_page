@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.62.1"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  },
+  "name": "11_building_the_netflix_login_page",
+  "version": "1.0.0",
+  "description": "package json for my project",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "11_building_the_netflix_login_page"
+  },
+  "author": "divya",
+  "license": "ISC"
+}
